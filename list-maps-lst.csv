@@ -1,4 +1,4 @@
-nome,uf,municipio,icon,lat,lng,codigo_ibge,anda,ama,cat
+nome,uf,municipio,icon,lat,lng,id,anda,ama,cat
 Adubos Vera Cruz Ltda.,SP,Ibaté,fertilizante-agk,-21.9584,-47.9882,3519303,N,S,3
 Adufértil Fertilizantes Ltda.,SP,Jundiaí,fertilizante-agk,-23.1852,-46.8974,3525904,S,S,5
 Agro Hemar Ltda.,SP,Ribeirão Preto,fertilizante-agk,-21.1699,-47.8099,3543402,N,S,3
